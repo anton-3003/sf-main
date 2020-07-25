@@ -1,0 +1,12 @@
+* {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	color: green;
+}
